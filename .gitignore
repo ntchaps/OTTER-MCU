@@ -1,0 +1,23 @@
+# Videos
+*.mp4
+*.MOV
+*.mov
+*.m4a
+
+# Vivado/generated junk
+*.jou
+*.log
+*.pb
+*.wdb
+*.dcp
+*.bit
+*.rpt
+*.rpx
+*.wdf
+*.db
+*.xpr.backup
+.cache/
+.runs/
+.sim/
+.hw/
+.ip_user_files/
