@@ -8,6 +8,9 @@ This project implements a custom OTTER MCU using modular SystemVerilog component
 
 The processor was built in Vivado and targeted for the Basys 3 board. Assembly programs were written and converted into memory files for testing the processor in simulation and on hardware.
 
+## Demo
+https://youtu.be/j6590DFe_Gc
+![OTTER MCU datapath diagram](docs/FinalSW.png)
 ## Features
 
 * RISC-V style processor datapath implemented in SystemVerilog
